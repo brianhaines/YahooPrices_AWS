@@ -1,0 +1,1 @@
+<MySQL user>,<password>,<RDS instance DNS>, <Database Name>
